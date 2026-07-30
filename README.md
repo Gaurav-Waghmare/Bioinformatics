@@ -27,11 +27,11 @@ Bioinformatics involves working with large biological datasets such as:
 
 Most bioinformatics tools are developed for Linux because:
 
- -Research servers use Linux  
- -HPC clusters run Linux  
- -Many tools work through command line  
- -Large datasets are easier to process  
- -Software installation is easier using package managers
+ - Research servers use Linux  
+ - HPC clusters run Linux  
+ - Many tools work through command line  
+ - Large datasets are easier to process  
+ - Software installation is easier using package managers
 
 
 Examples of Linux-based bioinformatics tools:
